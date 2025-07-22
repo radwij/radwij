@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" alt="Abstract tech banner" width="100%" height="100px"/>
+  <img src="banner.gif" alt="Abstract tech banner" width="100%" height="200px"/>
 </div>
 
 <h1 align="center">Hi there, I'm Partha 👋</h1>
