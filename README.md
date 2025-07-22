@@ -20,7 +20,7 @@ I'm a university student from Indonesia with a strong passion for technology and
 -   🔭 I’m exploring tools like `Wireshark`, `Nmap`, and learning the fundamentals of ethical hacking.
 -   👯 I’m looking to collaborate on beginner-friendly cybersecurity projects or CTF (Capture The Flag) challenges.
 -   💬 Ask me about anything related to `Python`, `Web Development`, or my journey into cyber!
--   📫 You can reach me at: **your.email@example.com** (don't forget to change this!)
+-   📫 You can reach me at: **radityawijay4@gmail.com**
 
 ---
 
