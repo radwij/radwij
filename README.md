@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/t4oIHLa.gif" alt="Abstract tech banner" width="100%"/>
+  <img src="https://i.imgur.com/t4oIHLa.gif](https://i.pinimg.com/originals/c4/ba/6b/c4ba6b61597cceacae79d99e570b6601.gif" alt="Abstract tech banner" width="100%"/>
 </div>
 
 <h1 align="center">Hi there, I'm Partha 👋</h1>
